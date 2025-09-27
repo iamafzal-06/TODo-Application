@@ -23,6 +23,11 @@ This project allows users to easily organize and manage daily tasks with essenti
 ---
 
 ## 🚀 Getting Started
+![project img 1](https://github.com/user-attachments/assets/9c612947-08e0-4275-ae91-4c5e6e2b8536)
 
-```bash
-git clone https://github.com/your-username/todo-application.git
+![project img 2](https://github.com/user-attachments/assets/5b7bf7c2-4adb-4c66-bf65-2721125ad682)
+
+![project img 3](https://github.com/user-attachments/assets/4f9e26bb-ad38-4751-ad82-1e9ccc66df46)
+
+![project img 4](https://github.com/user-attachments/assets/b81403c5-38f8-4f05-ac5b-6cf277bb47ce)
+
